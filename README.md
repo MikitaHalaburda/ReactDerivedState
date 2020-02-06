@@ -1,2 +1,0 @@
-# ReactDerivedState
-Created with CodeSandbox
